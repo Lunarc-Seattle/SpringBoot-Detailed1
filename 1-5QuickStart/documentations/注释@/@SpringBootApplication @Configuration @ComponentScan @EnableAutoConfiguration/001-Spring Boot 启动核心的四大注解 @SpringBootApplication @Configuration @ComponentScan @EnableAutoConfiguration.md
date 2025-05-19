@@ -40,7 +40,7 @@ public class MyApp {
 
 ## 2. `@Configuration` —— 配置类（等同于 XML 配置）
 
-* 表示当前类是一个**配置类**。
+* 表示当前类是一个**配置类**。--config
 * 类中可以用 `@Bean` 方法声明 Bean。
 * 是 `@Component` 的一种特殊形式，本质上是个 Bean。
 
